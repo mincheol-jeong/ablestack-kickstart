@@ -1,6 +1,7 @@
 body.login-pf {
-    background: url("bg-plain.jpg") no-repeat 50% 0;
-    background-size: cover;
+    background: url("bg-plain.jpg") no-repeat;
+    background-size: 50%;
+    background-position: right;
     background-color: #101010;
 }
 
